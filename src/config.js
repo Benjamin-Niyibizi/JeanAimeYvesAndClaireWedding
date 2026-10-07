@@ -231,7 +231,7 @@ const WEDDING = {
   ],
 
   contacts: [
-     { name: "Jean Aime Yves", phone: "+250 789 000 000" },
+     { name: "Jean Aime Yves", phone: "+250 788 727 740" },
      { name: "Claire", phone: "+250 787 973 008" },
    ],
 
